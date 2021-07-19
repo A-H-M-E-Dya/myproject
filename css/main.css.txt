@@ -1,0 +1,5 @@
+*{
+  padding :0px;
+  border-box:box sizing;
+  margin : 0px;
+}
